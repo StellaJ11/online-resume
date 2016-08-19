@@ -7,28 +7,36 @@ var work = {
 			"title": "Online Merchandising Coordinator",
 			"location": "New York, NY",
 			"dates": "May 2016 - Present",
-			"description": " • Support site planning, conduct daily maintenance and manage product updates for around 200 teacher and parent websites of Scholastic Reading Club using Demandware Business Manager. • Partner with Marketing, Creative and Development teams to develop and execute merchandising calendar and generate more than 120 promotional online assets and around 20 customized landing pages to provide seamless online experience.      • Ensure the accuracy and timelines of all product launches, assist the Development team to troubleshoot, fix and prevent layout and content issues and continually optimize content layout and product interaction paths to improve customer experience."
+			"descriptiona": " • Support site planning, conduct daily maintenance and manage product updates for around <b>200</b> teacher and parent websites of Scholastic Reading Club using <b>Demandware Business Manager</b>",
+			"descriptionb": " • Partner with Marketing, Creative and Development teams to develop and execute merchandising calendar and generate more than <b>120</b> promotional online assets and around <b>20</b> customized landing pages to provide seamless online experience.",
+			"descriptionc": " • Ensure the accuracy and timelines of all product launches, assist the Development team to troubleshoot, fix and prevent layout and content issues and continually optimize content layout and product interaction paths to improve customer experience."
 		},
 		{
 			"employer": "Wirelesslink Group Inc",
 			"title": "Digital Marketing Consultant",
 			"location": "New York, NY",
 			"dates": "December 2015 - April 2016",
-			"description": "• Implemented site changes and product updates for more than 2,000 products in over 60 product categories based on directions from Ecommerce Manager in Demandware Business Manager. • Developed weekly/monthly web analytics dashboards and reports via analyzing data from Google Analytics and Omniture to measure merchandise effectiveness and provide action plans to enhance website performance and customer journey. • Oversaw product inventory, forecasted website operations and module development and uploaded seller content and product information to eCommerce websites such as Amazon.com, Ebay.com, etc."
+			"descriptiona": "• Implemented site changes and product updates for more than <b>2,000</b> products in over <b>60</b> product categories based on directions from Ecommerce Manager in <b>Demandware Business Manager</b>",
+			"descriptionb": "• Developed weekly/monthly web analytics dashboards and reports via analyzing data from <b>Google Analytics</b> and <b>Omniture</b> to measure merchandise effectiveness and provide action plans to enhance website performance and customer journey.",
+			"descriptionc": "• Oversaw product inventory, forecasted website operations and module development and uploaded seller content and product information to eCommerce websites such as <b>Amazon.com</b>, <b>Ebay.com</b>, etc."
 		},
 		{
 			"employer": "Smartling",
 			"title": "Digital Marketing Intern",
 			"location": "New York, NY",
 			"dates": "June 2015 - December 2015",
-			"description": "• Initiated email marketing campaigns in HubSpot for content syndication and lead generation initiatives, including designing HTML email templates, tracking campaign performance and reporting. • Monitored data patterns of key trends in Google Analytics to provide insights to increase KPI performance and utilized WordPress to maintain company websites and fix more than 1,500 dead links with 404 error. • Managed various social media accounts; in 5 months, engagement rate was increased by 480.2% and conversion rate from social media was increased by 521.3%"
+			"descriptiona": "• Initiated email marketing campaigns in <b>HubSpot</b> for content syndication and lead generation initiatives, including designing HTML email templates, tracking campaign performance and reporting",
+			"descriptionb": "• Monitored data patterns of key trends in <b>Google Analytics</b> to provide insights to increase KPI performance and utilized <b>WordPress</b> to maintain company websites and fix more than <b>1,500</b> dead links with 404 error.",
+			"descriptionc": "• Managed various social media accounts; in 5 months, engagement rate was increased by <b>480.2%</b> and conversion rate from social media was increased by <b>521.3%</b>"
 		},
 		{
 			"employer": "justclickforkids.com",
 			"title": "Digital Marketing Intern",
 			"location": "Hicksville, NY",
 			"dates": "September 2014 - January 2015",
-			"description1": "• Utilized Google Analytics and Google Webmaster Tools to analyze traffic patterns, implement keyword research and conduct SEO strategies to increase website traffic and improve keyword ranking. • Worked with Developers, Designers and Marketing Managers to build user-friendly landing pages to improve user experience; conversion rates were increased by 125.7% in average in 4 months. • Tracked and monitored site assets based on various campaigns and offers using Basecamp for project management to ensure consistent site functionality"
+			"descriptiona": "• Utilized <b>Google Analytics</b> and <b>Google Webmaster Tools</b> to analyze traffic patterns, implement keyword  and conduct SEO strategies to increase website traffic and improve keyword ranking",
+			"descriptionb": "• Worked with developers, designers and marketing managers to build user-friendly landing pages to improve user experience; conversion rates were increased by <b>125.7%</b> in average in 4 months",
+			"descriptionc": "• Tracked and monitored site assets based on various campaigns and offers using <b>Basecamp</b> for project management to ensure consistent site functionality"
 		}
 
 	]
@@ -43,7 +51,9 @@ work.display = function(){
 								.append(HTMLworkEmployer.replace("%data%", work.jobs[job]["employer"]))
 								.append(HTMLworkLocation.replace("%data%", work.jobs[job]["location"]))
 								.append(HTMLworkDates.replace("%data%", work.jobs[job]["dates"]))
-								.append(HTMLworkDescription.replace("%data%", work.jobs[job]["description"]));
+								.append(HTMLworkDescription.replace("%data%", work.jobs[job]["descriptiona"]))
+								.append(HTMLworkDescription.replace("%data%", work.jobs[job]["descriptionb"]))
+								.append(HTMLworkDescription.replace("%data%", work.jobs[job]["descriptionc"]));
 								
 	}
 		
@@ -176,22 +186,40 @@ var education = {
 	],
 	"onlineCourses": [
 		{
-			"title": "Front-End Web Development Nanodegree",
-			"school": "Udacity",
-			"dates": "December 2015 - Present",
-			"url": "https://www.udacity.com/nanodegrees"
+			"title": "December 2015 - Present",
+			"school": "Front-End Web Development Nanodegree",
+			"dates": "Udacity",
+			//"url": "https://www.udacity.com/nanodegrees"
 		},
 		{
-			"title": "Digital Analytics Fundamentals",
-			"school": "Google Analytics Academy",
-			"dates": "March 2016",
-			"url": "https://analyticsacademy.withgoogle.com/course/1"
+			"title": "January 2016",
+			"school": "Ecommerce Analytics: From Data to Decisions",
+			"dates": "Google Analytics Academy",
+			//"url": "https://analyticsacademy.withgoogle.com/course/3"
 		},
 		{
-			"title": "Ecommerce Analytics: From Data to Decisions",
-			"school": "Google Analytics Academy",
-			"dates": "January 2016",
-			"url": "https://analyticsacademy.withgoogle.com/course/3"
+			"title": "December 2015",
+			"school": "Digital Analytics Fundamentals",
+			"dates": "Google Analytics Academy",
+			//"url": "https://analyticsacademy.withgoogle.com/course/1"
+		},
+		{
+			"title": "December 2015",
+			"school": "JavaScript Fundamentals",
+			"dates": "SoloLearn",
+			//"url": "http://www.sololearn.com/Profile/415113/"
+		},
+		{
+			"title": "December 2015",
+			"school": "HTML Fundamentals",
+			"dates": "SoloLearn",
+			//"url": "http://www.sololearn.com/Profile/415113/"
+		},
+		{
+			"title": "December 2015",
+			"school": "CSS Fundamentals",
+			"dates": "SoloLearn",
+			//"url": "http://www.sololearn.com/Profile/415113/"
 		}
 	],
 };
@@ -215,7 +243,7 @@ education.display = function(){
 		$(".education-entry:last").append(HTMLonlineDates.replace("%data%", education.onlineCourses[onlineCourse]["dates"]))
 									.append(HTMLonlineSchool.replace("%data%", education.onlineCourses[onlineCourse]["school"]))
 									.append(HTMLonlineTitle.replace("%data%", education.onlineCourses[onlineCourse]["title"]))
-									.append(HTMLonlineURL.replace("%data%", education.onlineCourses[onlineCourse]["url"]));
+									//.append(HTMLonlineURL.replace("%data%", education.onlineCourses[onlineCourse]["url"]));
 	}
 }
 //Map
