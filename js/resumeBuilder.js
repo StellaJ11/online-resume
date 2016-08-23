@@ -25,7 +25,7 @@ var work = {
 			"title": "Digital Marketing Intern",
 			"location": "New York, NY",
 			"dates": "June 2015 - December 2015",
-			"descriptiona": "• Initiated email marketing campaigns in <b>HubSpot</b> for content syndication and lead generation initiatives, including designing HTML email templates, tracking campaign performance and reporting",
+			"descriptiona": "• Initiated email marketing campaigns in <b>HubSpot</b> for <b>content syndication</b> and <b>lead generation</b> initiatives, including designing HTML email templates, tracking campaign performance and reporting",
 			"descriptionb": "• Monitored data patterns of key trends in <b>Google Analytics</b> to provide insights to increase KPI performance and utilized <b>WordPress</b> to maintain company websites and fix more than <b>1,500</b> dead links with 404 error.",
 			"descriptionc": "• Managed various social media accounts; in 5 months, engagement rate was increased by <b>480.2%</b> and conversion rate from social media was increased by <b>521.3%</b>"
 		},
