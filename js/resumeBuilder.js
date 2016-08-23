@@ -64,7 +64,7 @@ var projects = {
 		{
 			"title": "Arcade Game",
 			"date worked": "April, 2016",
-			"description": "A classic arcade game project for Udacity Front-End Web Development Nanodegree with several personmodification(Pick your character by pressing a number from 1 to 5 on the keyboard to start the game!)",
+			"description": "A classic arcade game project for Udacity Front-End Web Development Nanodegree with several personal modifications (Pick your character by pressing a number from 1 to 5 on the keyboard to start the game!)",
 			"image": "http://lei-clearsky.github.io/images/1.jpg",
 			"github": "https://github.com/StellaJ11/frontend-nanodegree-arcade-game",
 			"demo": "https://stellaj11.github.io/frontend-nanodegree-arcade-game/",
