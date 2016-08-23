@@ -7,9 +7,9 @@ var work = {
 			"title": "Online Merchandising Coordinator",
 			"location": "New York, NY",
 			"dates": "May 2016 - Present",
-			"descriptiona": " • Support site planning, conduct daily maintenance and manage product updates for around <b>200</b> teacher and parent websites of Scholastic Reading Club using <b>Demandware Business Manager</b>",
+			"descriptiona": " • Support site planning, conduct daily maintenance and manage product updates for around <b>200</b> teacher and parent webpages of Scholastic Reading Club using <b>Demandware Business Manager</b>",
 			"descriptionb": " • Partner with Marketing, Creative and Development teams to develop and execute merchandising calendar and generate more than <b>120</b> promotional online assets and around <b>20</b> customized landing pages to provide seamless online experience.",
-			"descriptionc": " • Ensure the accuracy and timelines of all product launches, assist the Development team to troubleshoot, fix and prevent layout and content issues and continually optimize content layout and product interaction paths to improve customer experience."
+			"descriptionc": " • Ensure accuracy and timelines of all product launches, assist the Development team to troubleshoot, fix and prevent layout and content issues and continually optimize content layout and product interaction paths to improve customer experience."
 		},
 		{
 			"employer": "Wirelesslink Group Inc",
@@ -17,8 +17,8 @@ var work = {
 			"location": "New York, NY",
 			"dates": "December 2015 - April 2016",
 			"descriptiona": "• Implemented site changes and product updates for more than <b>2,000</b> products in over <b>60</b> product categories based on directions from Ecommerce Manager in <b>Demandware Business Manager</b>",
-			"descriptionb": "• Developed weekly/monthly web analytics dashboards and reports via analyzing data from <b>Google Analytics</b> and <b>Omniture</b> to measure merchandise effectiveness and provide action plans to enhance website performance and customer journey.",
-			"descriptionc": "• Oversaw product inventory, forecasted website operations and module development and uploaded seller content and product information to eCommerce websites such as <b>Amazon.com</b>, <b>Ebay.com</b>, etc."
+			"descriptionb": "• Utilized <b>Google Analytics</b> and <b>Tableau</b> to develope weekly & monthly web analytics reports to measure merchandise effectiveness and provide action plans to enhance website performance and customer journey.",
+			"descriptionc": "• Oversaw product inventory, forecasted website operations and module development and uploaded seller content and product information to Ecommerce websites such as <b>Amazon.com</b>, <b>Ebay.com</b>, etc."
 		},
 		{
 			"employer": "Smartling",
