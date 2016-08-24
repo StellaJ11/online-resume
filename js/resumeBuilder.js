@@ -247,7 +247,7 @@ education.display = function(){
 	}
 }
 //Map
-//$("#mapDiv").append(googleMap);
+$("#mapDiv").append(googleMap);
 
 // chartjs library from: http://www.chartjs.org/docs/#polar-area-chart
 var polarData = [
