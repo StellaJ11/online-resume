@@ -6,10 +6,10 @@ var work = {
 			"employer": "Scholastic",
 			"title": "Online Merchandising Coordinator",
 			"location": "New York, NY",
-			"dates": "May 2016 - Present",
-			"descriptiona": " • Support site planning, conduct daily maintenance and manage product updates for around <b>200</b> teacher and parent webpages of Scholastic Reading Club using <b>Demandware Business Manager</b>",
-			"descriptionb": " • Partner with Marketing, Creative and Development teams to develop and execute merchandising calendar and generate more than <b>120</b> promotional online assets and around <b>20</b> customized landing pages to provide seamless online experience.",
-			"descriptionc": " • Ensure accuracy and timelines of all product launches, assist the Development team to troubleshoot, fix and prevent layout and content issues and continually optimize content layout and product interaction paths to improve customer experience."
+			"dates": "May 2016 - September 2016",
+			"descriptiona": " • Supported site planning, conducted daily maintenance and managed product updates for around <b>200</b> teacher and parent web pages of Scholastic Reading Club using <b>Demandware Business Manager</b>",
+			"descriptionb": " • Partnered with Marketing, Creative and Development teams to develop and execute merchandising calendar and generate more than <b>120</b> promotional online assets and around <b>20</b> customized landing pages to provide seamless online experience",
+			"descriptionc": " • Ensured accuracy and timelines of all product launches, assisted the Development team to troubleshoot, fix and prevent layout and content issues and continually optimized content layout and product interaction paths to improve customer experience"
 		},
 		{
 			"employer": "Wirelesslink Group Inc",
@@ -17,7 +17,7 @@ var work = {
 			"location": "New York, NY",
 			"dates": "December 2015 - April 2016",
 			"descriptiona": "• Implemented site changes and product updates for more than <b>2,000</b> products in over <b>60</b> product categories based on directions from Ecommerce Manager in <b>Demandware Business Manager</b>",
-			"descriptionb": "• Utilized <b>Google Analytics</b> and <b>Tableau</b> to develope weekly & monthly web analytics reports to measure merchandise effectiveness and provide action plans to enhance website performance and customer journey.",
+			"descriptionb": "• Utilized <b>Google Analytics</b> and <b>Tableau</b> to develope weekly & monthly web analytics reports to measure merchandise effectiveness and provide action plans to enhance website performance and customer journey",
 			"descriptionc": "• Oversaw product inventory, forecasted website operations and module development and uploaded seller content and product information to Ecommerce websites such as <b>Amazon.com</b>, <b>Ebay.com</b>, etc."
 		},
 		{
@@ -26,7 +26,7 @@ var work = {
 			"location": "New York, NY",
 			"dates": "June 2015 - December 2015",
 			"descriptiona": "• Initiated email marketing campaigns in <b>HubSpot</b> for <b>content syndication</b> and <b>lead generation</b> initiatives, including designing HTML email templates, tracking campaign performance and reporting",
-			"descriptionb": "• Monitored data patterns of key trends in <b>Google Analytics</b> to provide insights to increase KPI performance and utilized <b>WordPress</b> to maintain company websites and fix more than <b>1,500</b> dead links with 404 error.",
+			"descriptionb": "• Monitored data patterns of key trends in <b>Google Analytics</b> to provide insights to increase KPI performance and utilized <b>WordPress</b> to maintain company websites and fix more than <b>1,500</b> dead links with 404 error",
 			"descriptionc": "• Managed various social media accounts; in 5 months, engagement rate was increased by <b>480.2%</b> and conversion rate from social media was increased by <b>521.3%</b>"
 		},
 		{
@@ -83,7 +83,7 @@ var projects = {
 			"date worked": "August, 2016 - Present",
 			"description": "A neighborhood map project for Udacity Front-End Web Development Nanodegree featuring cool food places in Downtown Manhattan via Google Maps API",
 			"image": "http://lei-clearsky.github.io/images/1.jpg",
-			"github": "https://github.com/StellaJ11/fend-neighborhood-map-project",
+			"github": "https://github.com/StellaJ11/Stella_FEND_P7",
 			"progress": 70
 		}
 		
