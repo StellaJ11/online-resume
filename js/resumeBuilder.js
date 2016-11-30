@@ -84,7 +84,7 @@ var projects = {
 			"description": "A neighborhood map project for Udacity Front-End Web Development Nanodegree featuring cool food places in Downtown Manhattan via Google Maps API",
 			"image": "http://lei-clearsky.github.io/images/1.jpg",
 			"github": "https://github.com/StellaJ11/Stella_FEND_P7",
-			"progress": 70
+			"progress": 80
 		}
 		
 	]
