@@ -34,7 +34,7 @@ var work = {
 			"title": "Digital Marketing Intern",
 			"location": "Hicksville, NY",
 			"dates": "September 2014 - January 2015",
-			"descriptiona": "• Utilized <b>Google Analytics</b> and <b>Google Webmaster Tools</b> to analyze traffic patterns, implement keyword  and conduct SEO strategies to increase website traffic and improve keyword ranking",
+			"descriptiona": "• Utilized <b>Google Analytics</b> and <b>Google Search Console</b> to analyze traffic patterns, implement keyword  and conduct SEO strategies to increase website traffic and improve keyword ranking",
 			"descriptionb": "• Worked with developers, designers and marketing managers to build user-friendly landing pages to improve user experience; conversion rates were increased by <b>125.7%</b> in average in 4 months",
 			"descriptionc": "• Tracked and monitored site assets based on various campaigns and offers using <b>Basecamp</b> for project management to ensure consistent site functionality"
 		}
