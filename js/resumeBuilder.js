@@ -7,8 +7,8 @@ var work = {
 			"title": "Online Merchandising Coordinator",
 			"location": "New York, NY",
 			"dates": "May 2016 - September 2016",
-			"descriptiona": " • Supported site planning, conducted daily maintenance and managed product updates for around <b>200</b> teacher and parent web pages of Scholastic Reading Club using <b>Demandware Business Manager</b>",
-			"descriptionb": " • Partnered with Marketing, Creative and Development teams to develop and execute merchandising calendar and generate more than <b>120</b> promotional online assets and around <b>20</b> customized landing pages to provide seamless online experience",
+			"descriptiona": " • Performed strategic analyses of website and campaign data in <b>Adobe Analytics</b> to solve challenges and identify opportunities relating to website performance, customer intent, and marketing and eCommerce campaign performance",
+			"descriptionb": " • Supported development of key metrics for tracking performance, communicated results of data analysis and reporting clearly to relevant stakeholders, and provided actionable recommendations based on data to improve web performance and achieve maximum profits",
 			"descriptionc": " • Ensured accuracy and timelines of all product launches, assisted the Development team to troubleshoot, fix and prevent layout and content issues and continually optimized content layout and product interaction paths to improve customer experience"
 		},
 		{
