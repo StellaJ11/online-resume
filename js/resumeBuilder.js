@@ -7,8 +7,8 @@ var work = {
 			"title": "Online Merchandising Coordinator",
 			"location": "New York, NY",
 			"dates": "May 2016 - September 2016",
-			"descriptiona": " • Performed strategic analyses of website and campaign data in <b>Adobe Analytics</b> to solve challenges and identify opportunities relating to website performance, customer intent, and marketing and eCommerce campaign performance",
-			"descriptionb": " • Supported development of key metrics for tracking performance, communicated results of data analysis and reporting clearly to relevant stakeholders, and provided actionable recommendations based on data to improve web performance and achieve maximum profits",
+			"descriptiona": " • Worked collaboratively with Marketing, Creative and Analytics teams to implement digital media campaigns and create landing pages for paid search campaigns and other digital marketing initiatives",
+			"descriptionb": " • Performed strategic analyses of website and campaign data in <b>Adobe Analytics</b> to solve challenges and identify opportunities relating to website performance, customer intent, and marketing and eCommerce campaign performance",
 			"descriptionc": " • Ensured accuracy and timelines of all product launches, assisted the Development team to troubleshoot, fix and prevent layout and content issues and continually optimized content layout and product interaction paths to improve customer experience"
 		},
 		{
@@ -16,16 +16,16 @@ var work = {
 			"title": "Digital Marketing Consultant",
 			"location": "New York, NY",
 			"dates": "December 2015 - April 2016",
-			"descriptiona": "• Implemented site changes and product updates for more than <b>2,000</b> products in over <b>60</b> product categories based on directions from Ecommerce Manager in <b>Demandware Business Manager</b>",
+			"descriptiona": "• Analyzed and optimized <b>Google AdWords</b> and <b>Bing Ads</b> campaigns from a variety of perspectives including CTR, conversion rates, search queries, landing page, quality score, competitors etc. to achieve maximum ROI",
 			"descriptionb": "• Utilized <b>Google Analytics</b> and <b>Tableau</b> to develope weekly & monthly web analytics reports to measure merchandise effectiveness and provide action plans to enhance website performance and customer journey",
-			"descriptionc": "• Oversaw product inventory, forecasted website operations and module development and uploaded seller content and product information to Ecommerce websites such as <b>Amazon.com</b>, <b>Ebay.com</b>, etc."
+			"descriptionc": "• Implemented site changes and product updates for more than <b>2,000</b> products in over <b>60</b> product categories based on directions from Ecommerce Manager in <b>Demandware Business Manager</b>"
 		},
 		{
 			"employer": "Smartling",
 			"title": "Digital Marketing Intern",
 			"location": "New York, NY",
 			"dates": "June 2015 - December 2015",
-			"descriptiona": "• Initiated email marketing campaigns in <b>HubSpot</b> for <b>content syndication</b> and <b>lead generation</b> initiatives, including designing HTML email templates, tracking campaign performance and reporting",
+			"descriptiona": "• Planned and implemented A/B and multivariate testings in <b>Google AdWords</b> to evaluate ad copy, keywords, landing pages, target selection, frequency, etc. to achieve ROI",
 			"descriptionb": "• Monitored data patterns of key trends in <b>Google Analytics</b> to provide insights to increase KPI performance and utilized <b>WordPress</b> to maintain company websites and fix more than <b>1,500</b> dead links with 404 error",
 			"descriptionc": "• Managed various social media accounts; in 5 months, engagement rate was increased by <b>480.2%</b> and conversion rate from social media was increased by <b>521.3%</b>"
 		},
@@ -36,7 +36,7 @@ var work = {
 			"dates": "September 2014 - January 2015",
 			"descriptiona": "• Utilized <b>Google Analytics</b> and <b>Google Search Console</b> to analyze traffic patterns, implement keyword  and conduct SEO strategies to increase website traffic and improve keyword ranking",
 			"descriptionb": "• Worked with developers, designers and marketing managers to build user-friendly landing pages to improve user experience; conversion rates were increased by <b>125.7%</b> in average in 4 months",
-			"descriptionc": "• Tracked and monitored site assets based on various campaigns and offers using <b>Basecamp</b> for project management to ensure consistent site functionality"
+			"descriptionc": "•  Managed the day to day search marketing activities in <b>Google AdWords</b> which included campaign planning, monitoring, implemen- tation, optimization, and budget management"
 		}
 
 	]
@@ -130,8 +130,8 @@ projects.progressChart = function(d3Div, progressDiv, project, container, value)
 var bio = {
 	"first name": "Stella",
 	"last name": "",
-	"role": "Ecommerce, Web Analytics & Digital Marketing Ninja",
-	"welcome message": "Hi there! I'm Stella Jiang, a self-motivated marketer who is passionate about Ecommerce, web analytics and digital marketing! Feel free to check out my skills, work experience and projects below. You can also find me on Linkedin and Twitter.",
+	"role": "Digital Media, Web Analytics & Ecommerce Ninja",
+	"welcome message": "Hi there! I'm Stella Jiang, a self-motivated marketer who is passionate about digital media, web analytics & Ecommerce! Feel free to check out my skills, work experience and projects below. You can also find me on Linkedin and Twitter.",
 	"bio pic": "https://lh3.googleusercontent.com/-SBN15tcmbC8/UkCdJGCGHOI/AAAAAAAAAVE/Gjs_4zrqmfY/w140-h140-p/LeiZ.JPG",
 	"contacts": 
 		{
@@ -204,13 +204,25 @@ var education = {
 			//"url": "https://analyticsacademy.withgoogle.com/course/1"
 		},
 		{
+			"title": "December 2016",
+			"school": "Google Analytics Essential Training",
+			"dates": "Lynda.com",
+			//"url": "http://www.sololearn.com/Profile/415113/"
+		},
+		{
+			"title": "December 2016",
+			"school": "Google AdWords Essential Training",
+			"dates": "Lynda.com",
+			//"url": "http://www.sololearn.com/Profile/415113/"
+		},
+		{
 			"title": "December 2015",
 			"school": "JavaScript Fundamentals",
 			"dates": "SoloLearn",
 			//"url": "http://www.sololearn.com/Profile/415113/"
 		},
 		{
-			"title": "December 2015",
+			"title": "December 2016",
 			"school": "HTML Fundamentals",
 			"dates": "SoloLearn",
 			//"url": "http://www.sololearn.com/Profile/415113/"
